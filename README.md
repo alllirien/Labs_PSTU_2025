@@ -12,3 +12,6 @@
 | 1.3 |Hanoi Tower|🟢/🟢|https://github.com/alllirien/Labs_PSTU_2025/blob/main/sem2/Hanoi/Hanoi.cpp|https://github.com/alllirien/Labs_PSTU_2025/blob/main/sem2/Hanoi/Hanoi.png|
 | 1.4 |8 queens|    |       |
 | 1.5 |labs10|     |      | 
+| 1.6 |labs6|      |      |         |
+| 1.7 |labs8|     |       |         |
+| 1.8 |labs9|     |       |       |
