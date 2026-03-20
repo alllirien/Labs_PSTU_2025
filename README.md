@@ -17,5 +17,5 @@
 | 1.8 |labs9|     |       |       |
 | 1.9 | 7.1 |     |       |        |
 |1.10 | 7.2 |     |       |       |
-|1.11 |sort|     |      |        |
+|1.11 |sort| 🟢/🟢|https://github.com/alllirien/Labs_PSTU_2025/blob/main/sem2/bubble.sort/bubblesort.cpp|https://github.com/alllirien/Labs_PSTU_2025/blob/main/sem2/bubble.sort/bubble.png|
 |1.12 |recurs|    |    |      |  
